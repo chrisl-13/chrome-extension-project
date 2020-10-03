@@ -13,7 +13,8 @@
     "*://*.youtube.com/*",
     "webNavigation",
     "storage",
-    "declarativeContent"
+    "declarativeContent",
+    "tabs"
   ],
 
   "background": {
